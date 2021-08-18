@@ -1,0 +1,6 @@
+cptempnull,cptempcombpp,cptempcombrh,cphumppnull,cphumppcomb,cphumrhnull,cphumrhcomb
+Zuerich,1.32 [1.23 - 1.41],1.35 [1.25 - 1.45],1.29 [1.2 - 1.38],0.0055 per hPa of PP,-0.0049 per hPa of PP,-0.0037 per % of RH,-0.0015 per % of RH
+Basel-Stadt,1.36 [1.18 - 1.57],1.33 [1.14 - 1.54],1.39 [1.19 - 1.62],0.0125 per hPa of PP,0.006 per hPa of PP,-0.0015 per % of RH,0.0014 per % of RH
+Ticino,1.21 [1.07 - 1.37],1.21 [1.06 - 1.37],1.22 [1.08 - 1.38],0.008 per hPa of PP,0.0018 per hPa of PP,-4e-04 per % of RH,5e-04 per % of RH
+Valais,1.19 [1.03 - 1.37],1.17 [1.01 - 1.36],1.19 [1.03 - 1.39],0.0078 per hPa of PP,0.0038 per hPa of PP,-0.0017 per % of RH,4e-04 per % of RH
+Geneve,1.29 [1.14 - 1.46],1.29 [1.13 - 1.46],1.3 [1.14 - 1.47],0.0098 per hPa of PP,-4e-04 per hPa of PP,-0.0035 per % of RH,5e-04 per % of RH
